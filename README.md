@@ -17,6 +17,8 @@
 	kubectl --kubeconfig kubeconfig.yaml get svc   <list services>
 	docker-compose up --scale worker=3  < add new worker node >
 	docker-compose down
+5.) Added rancher.sh to execute a Rancher to manage kubernetes.
+
 
 
 
